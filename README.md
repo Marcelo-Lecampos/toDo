@@ -1,4 +1,4 @@
-# ToDo - RocketSeat
+# ToDo - RocketSeat 🚀
 
 Um projetinho TodoList feito com React e TypeScript, faz parte dos desafios do curso Ignite da RocketSeat.
 
