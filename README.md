@@ -47,6 +47,6 @@ npm run dev
 
 <div>
   <h3>🗑️ Removendo um toDo:</h3>
-  <img src="readmeFiles/img3.png" width="500" alt="toDO finalizado" />
+  <img src="readmeFiles/img4.png" width="500" alt="toDO finalizado" />
 </div>
 
