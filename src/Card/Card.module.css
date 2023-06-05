@@ -1,0 +1,42 @@
+.container form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem;
+    gap: 0.75rem;
+    border-radius: 0.5rem;
+    background-color: var(--gray-400);
+}
+
+.tarefaContainer{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.check {
+    width: 1.0906rem;
+    height: 1.0906rem;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    clip-path: circle(50% at 50% 50%);
+    outline: none;
+    cursor: pointer;
+}
+
+.checked{
+    text-decoration: line-through;
+    color: var(--gray-300);
+}
+
+.trashButton{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    width: 2rem;
+}
+
+.trashButton:hover{
+    background-color: transparent;
+}
